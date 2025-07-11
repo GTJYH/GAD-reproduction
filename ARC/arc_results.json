@@ -1,0 +1,248 @@
+[
+  {
+    "status": "success",
+    "dataset": "reddit",
+    "time": 7.201010227203369,
+    "results": {
+      "reddit": {
+        "AUROC_mean": 0.5929518087184432,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.04811984143737199,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.0546448087431694,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.5929518087184432
+        ],
+        "AUPRC_list": [
+          0.04811984143737199
+        ],
+        "Recall@K_list": [
+          0.0546448087431694
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "weibo",
+    "time": 2.9004523754119873,
+    "results": {
+      "weibo": {
+        "AUROC_mean": 0.8005869346542921,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.3632005377863245,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.3122119815668203,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.8005869346542921
+        ],
+        "AUPRC_list": [
+          0.3632005377863245
+        ],
+        "Recall@K_list": [
+          0.3122119815668203
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "amazon",
+    "time": 3.8721656799316406,
+    "results": {
+      "amazon": {
+        "AUROC_mean": 0.3210222349898446,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.04675000419633102,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.02192448233861145,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.3210222349898446
+        ],
+        "AUPRC_list": [
+          0.04675000419633102
+        ],
+        "Recall@K_list": [
+          0.02192448233861145
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "yelp",
+    "time": 18.07224988937378,
+    "results": {
+      "yelp": {
+        "AUROC_mean": 0.5713860358830549,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.1896162932342924,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.2156657181368878,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.5713860358830549
+        ],
+        "AUPRC_list": [
+          0.1896162932342924
+        ],
+        "Recall@K_list": [
+          0.2156657181368878
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "tolokers",
+    "time": 5.413724184036255,
+    "results": {
+      "tolokers": {
+        "AUROC_mean": 0.4322784819259885,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.18611061743630222,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.17381137957911147,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.4322784819259885
+        ],
+        "AUPRC_list": [
+          0.18611061743630222
+        ],
+        "Recall@K_list": [
+          0.17381137957911147
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "questions",
+    "time": 18.886297702789307,
+    "results": {
+      "questions": {
+        "AUROC_mean": 0.5456653626538465,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.035539312624895354,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.056164383561643834,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.5456653626538465
+        ],
+        "AUPRC_list": [
+          0.035539312624895354
+        ],
+        "Recall@K_list": [
+          0.056164383561643834
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "success",
+    "dataset": "tfinance",
+    "time": 172.5212414264679,
+    "results": {
+      "tfinance": {
+        "AUROC_mean": 0.6857417080985488,
+        "AUROC_std": 0.0,
+        "AUPRC_mean": 0.071833171608668,
+        "AUPRC_std": 0.0,
+        "Recall@K_mean": 0.016638935108153077,
+        "Recall@K_std": 0.0,
+        "AUROC_list": [
+          0.6857417080985488
+        ],
+        "AUPRC_list": [
+          0.071833171608668
+        ],
+        "Recall@K_list": [
+          0.016638935108153077
+        ]
+      }
+    },
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "failed",
+    "dataset": "elliptic",
+    "time": 1130.154057264328,
+    "error": "CUDA out of memory. Tried to allocate 1.55 GiB (GPU 0; 6.00 GiB total capacity; 17.59 GiB already allocated; 0 bytes free; 18.28 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF",
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "failed",
+    "dataset": "dgraphfin",
+    "time": 12.522321462631226,
+    "error": "CUDA out of memory. Tried to allocate 14.12 GiB (GPU 0; 6.00 GiB total capacity; 5.89 GiB already allocated; 0 bytes free; 6.03 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF",
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  },
+  {
+    "status": "failed",
+    "dataset": "tsocial",
+    "time": 15.363513946533203,
+    "error": "[WinError -529697949] Windows Error 0xe06d7363",
+    "config": {
+      "trials": 1,
+      "shot": 10,
+      "epochs": 40,
+      "device": "cuda:0"
+    }
+  }
+]
